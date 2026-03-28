@@ -17,9 +17,9 @@ The goal of this project is to demonstrate core concepts in **Data Engineering**
 
 ### 🛠️ Tech Stack
 
-  * **Language:** 
-  * **Framework:** 
-  * **Database:** 
+  * **Language: Python** 
+  * **Framework: FastAPI** 
+  * **Database: PostgreSQL** 
   * **ORM:** **SQLAlchemy**
   * **API Source:** **CoinGecko API**
 
