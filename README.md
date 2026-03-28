@@ -65,6 +65,7 @@ uvicorn app.main:app --reload
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
 | `GET` | `/coins` | Retrieve all stored cryptocurrency records |
+| `GET` | `/top` | Retrieve top ten cryptocurrency records  |
 | `GET` | `/coins/{symbol}` | Filter data for a specific coin |
 
 ---
